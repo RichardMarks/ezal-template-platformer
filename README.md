@@ -1,5 +1,7 @@
 # EZAL Empty Template
-An empty template project for the [EZ Allegro 5 Micro Game Framework](https://github.com/RichardMarks/ezal)
+An platformer template project for the [EZ Allegro 5 Micro Game Framework](https://github.com/RichardMarks/ezal)
+
+> ** THIS PROJECT IS NOT READY FOR PUBLIC USAGE - WIP **
 
 ## Usage
 1. clone repository
